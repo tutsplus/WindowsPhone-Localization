@@ -1,0 +1,41 @@
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\Assets\ApplicationIcon.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\App Localization.dll
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\App Localization.pdb
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\es-ES\App Localization.resources.dll
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\qps-ploc\App Localization.resources.dll
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\zh-Hans\App Localization.resources.dll
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\resources.pri
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\AppxManifest.xml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\App Localization.build.appxrecipe
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\Properties\WMAppManifest.xml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\AppManifest.xaml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\Bin\x86\Release\App Localization_Release_x86.xap
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App.g.cs
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\MainPage.g.cs
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App Localization.g.resources
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App_Localization.Resources.AppResources.es-ES.resources
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App_Localization.Resources.AppResources.qps-ploc.qps-ploc.resources
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App_Localization.Resources.AppResources.resources
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App_Localization.Resources.AppResources.zh-Hans.resources
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App Localization.csproj.GenerateResource.Cache
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App Localization.dll
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\App Localization.pdb
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\priconfig.xml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\layout.resfiles
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\resources.resfiles
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\pri.resfiles
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\qualifiers.txt
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\MDILProjectFiles.xml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutsplus\App Localization\App Localization\obj\x86\Release\XapCacheFile.xml
